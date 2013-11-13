@@ -158,8 +158,8 @@
     <string name="pref_ab_number_not_ascending">Значення на нижньому рівні не може бути вище значень на верхніх рівнях</string>
     <string name="pref_ab_number_not_descending">Значення на верхньому рівні не може бути нижче значень на нижніх рівнях</string>
     <string name="pref_ab_values_set">Значення для %s встановлено</string>
-    <string name="pref_ab_config_saved">Нова конфігурація автояркость збережена</string>
-    <string name="pref_ab_config_cancelled">Конфігурація автояркость НЕ БУЛА збережена</string>
+    <string name="pref_ab_config_saved">Нова конфігурація автояскравості збережена</string>
+    <string name="pref_ab_config_cancelled">Конфігурація автояскравості НЕ БУЛА збережена</string>
     <string name="pref_ab_button_set">Встановити</string>
     <string name="pref_lockscreen_rotation_title">Включити поворот екрану блокування</string>
     <string name="pref_lockscreen_rotation_summary">УВАГА: може перемістити ярлики для кільця розблокування на деяких пристроях у разі, якщо екран блокування з AOSP був змінений виробником</string>
