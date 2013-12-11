@@ -518,4 +518,10 @@
     <string name="pref_disable_data_network_type_icons_title">Відключити індикатори типу мережі</string>
     <string name="pref_disable_data_network_type_icons_summary">Дозволяє відключити індикатори 3G/G поруч з драбинкою сигналу</string>
     <string name="hwkey_navbar_warning">При включенні підтримки дії для панелі навігації необхідно переписати настройки за замовчуванням в меню настройки панелі навігації</string>
+    <string name="pref_hwkey_lockscreen_torch_title">Ліхтар екранна блокування</string>
+    <string name="hwkey_ls_torch_disabled">Вимкнено</string>
+    <string name="hwkey_ls_torch_home_longpress">Тривале натиснення "Додому"</string>
+    <string name="hwkey_ls_torch_voldown_longpress">Тривале натиснення "Зменшити гучність"</string>
+    <string name="battery_style_kitkat_percent">Батарея KitKat з відсотками</string>
+    <string name="pref_cat_transparency_manager_summary">Управління прозорість для статус бара та панелі навігації</string>
 </resources>
